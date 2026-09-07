@@ -1,0 +1,29 @@
+metric,value
+official_source,Zenodo DOI 10.5281/zenodo.5706578
+dataset,LoveDA
+image_count,5987
+mask_count,4191
+readable_mask_count,4191
+splits_found,Test; Train; Val
+domains_found,Rural; Urban
+test_has_local_masks,False
+test_without_local_ground_truth_count,1796
+image_formats,PNG
+mask_formats,PNG
+resolutions,1024x1024
+most_common_resolution,1024x1024
+channels,3
+observed_mask_labels,0; 1; 2; 3; 4; 5; 6; 7
+ignore_index,0
+total_mask_pixels,4394582016
+valid_pixels_1_to_7,4249172884
+ignore_pixels,145409132
+ignore_percentage_all_pixels,3.3088273576551224
+observed_valid_class_count,7
+mean_valid_classes_per_image,4.949415413982343
+median_valid_classes_per_image,5.0
+min_valid_classes_per_image,1.0
+max_valid_classes_per_image,7.0
+issue_count,0
+exact_duplicate_groups,0
+cross_split_duplicate_groups,0

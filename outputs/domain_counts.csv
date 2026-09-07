@@ -1,0 +1,3 @@
+domain,image_count,percentage_images,mask_count,readable_mask_count,ignore_pixel_count,ignore_percentage_all_pixels
+Rural,3334,55.687322532153,2358,2358,59482670,2.405729204845995
+Urban,2653,44.312677467847,1833,1833,85926462,4.470587010859663

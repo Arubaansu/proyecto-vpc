@@ -1,0 +1,1 @@
+duplicate_group_id,image_id,split,domain,image_path,mask_path,sha256_image,sha256_mask,group_size,within_split_duplicate,cross_split_duplicate

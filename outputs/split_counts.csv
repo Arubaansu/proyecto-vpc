@@ -1,0 +1,4 @@
+split,image_count,percentage_images,mask_count,readable_mask_count,urban_image_count,rural_image_count,ignore_pixel_count,ignore_percentage_all_pixels
+Test,1796,29.99832971438116,0,0,820,976,0,
+Train,2522,42.12460330716552,2522,2522,1156,1366,99632059,3.7675073655421163
+Val,1669,27.877066978453314,1669,1669,677,992,45777073,2.6157231156593173
