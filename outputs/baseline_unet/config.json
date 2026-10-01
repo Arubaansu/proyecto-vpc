@@ -1,0 +1,26 @@
+{
+  "model": "U-Net baseline (from scratch)",
+  "seed": 42,
+  "input_size": 512,
+  "batch_size": 4,
+  "max_epochs": 30,
+  "learning_rate": 0.001,
+  "optimizer": "Adam",
+  "loss": "CrossEntropyLoss(ignore_index=255)",
+  "weight_decay": 1e-05,
+  "early_stopping_patience": 7,
+  "augmentations": [
+    "random horizontal flip",
+    "random vertical flip",
+    "random 90-degree rotations"
+  ],
+  "number_of_classes": 7,
+  "ignore_index": 255,
+  "base_channels": 32,
+  "use_class_weights": false,
+  "num_workers": 0,
+  "pin_memory": true,
+  "mixed_precision": true,
+  "execution_datetime_utc": "2026-10-01T21:02:04.107266+00:00",
+  "device": "cuda"
+}

@@ -1,0 +1,2 @@
+method,mIoU,Dice_macro,pixel_accuracy,official_val_loss,best_epoch,trainable_parameters,input_size
+U-Net baseline,0.2376450603723615,0.36522710801415453,0.48588458447327787,1.3958415072288537,10,7763239,512

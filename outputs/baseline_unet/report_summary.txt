@@ -1,0 +1,27 @@
+========================================
+RESUMEN REAL — BASELINE U-NET
+========================================
+Dataset: LoveDA
+Modelo: U-Net baseline (from scratch)
+Resolución utilizada: 512x512
+Train interno: 2018 imágenes
+Validation interno: 504 imágenes
+Official Val: 1669 imágenes
+Mejor epoch: 10
+Loss official Val: 1.395842
+mIoU official Val: 0.237645
+Dice macro official Val: 0.365227
+Pixel accuracy: 0.485885
+mIoU Urban: 0.256227
+mIoU Rural: 0.219862
+Número de parámetros: 7763239
+Tiempo total de entrenamiento: 2446.11 s
+IoU y Dice por clase:
+- background: IoU=0.388015, Dice=0.559094
+- building: IoU=0.235677, Dice=0.381454
+- road: IoU=0.106827, Dice=0.193033
+- water: IoU=0.286568, Dice=0.445477
+- barren: IoU=0.000594, Dice=0.001187
+- forest: IoU=0.318499, Dice=0.483123
+- agriculture: IoU=0.327335, Dice=0.493221
+========================================

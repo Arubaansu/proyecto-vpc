@@ -1,5 +1,7 @@
 # LoveDA and other local datasets (never versioned)
 data/
+data/LoveDA/
+data/LoveDA/**
 dataset/
 datasets/
 *.zip

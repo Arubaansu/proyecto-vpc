@@ -1,0 +1,6 @@
+El mejor checkpoint correspondió a la época 10 según mIoU de validación interna (0.351053).
+En esa época, la diferencia val_loss - train_loss fue -0.000770.
+Después del mejor epoch se observaron 4 descensos inter-época de mIoU de validación.
+La clase background obtuvo el mayor IoU (0.388015), mientras que barren obtuvo el menor (0.000594).
+La diferencia absoluta de mIoU entre Urban y Rural fue 0.036364.
+Mayores confusiones dirigidas: agriculture → background (46,150,638 píxeles); background → building (24,778,310 píxeles); agriculture → water (20,391,460 píxeles).

@@ -1,0 +1,9 @@
+{
+  "loss": 1.3958415072288537,
+  "mIoU": 0.2376450603723615,
+  "Dice_macro": 0.36522710801415453,
+  "pixel_accuracy": 0.48588458447327787,
+  "image_count": 1669,
+  "valid_pixels": 426069710,
+  "ignored_pixels_discarded": 11448626
+}

@@ -1,0 +1,7 @@
+experiment_split,domain,domain_count,domain_percentage,image_count
+official_val,Rural,992,59.43678849610545,1669
+official_val,Urban,677,40.56321150389455,1669
+train_internal,Rural,1106,54.80673934588702,2018
+train_internal,Urban,912,45.19326065411298,2018
+val_internal,Rural,260,51.58730158730159,504
+val_internal,Urban,244,48.41269841269841,504
